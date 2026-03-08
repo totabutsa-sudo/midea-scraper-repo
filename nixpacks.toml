@@ -1,5 +1,0 @@
-[phases.build]
-cmds = ["npm install"]
-
-[phases.setup]
-nixPkgs = ["chromium", "nss", "freetype", "harfbuzz", "ca-certificates", "ttf-dejavu"]
